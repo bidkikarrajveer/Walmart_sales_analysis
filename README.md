@@ -1,4 +1,6 @@
 Walmart Data Analysis: End-to-End SQL + Python Project (P-9)
+
+
 📌 Project Overview
 This project is an end-to-end data analysis solution designed to generate meaningful business insights from Walmart sales data.
 
@@ -128,6 +130,9 @@ Data files or instructions to download
 requirements.txt
 Python scripts (main.py)
 
+
+
+
 📦 Requirements
 Software:
 Python 3.8+
@@ -145,6 +150,8 @@ Other:
 Kaggle API Key
 
 
+
+
 🛠️ Getting Started
 
 Clone the repository:
@@ -156,6 +163,8 @@ pip install -r requirements.txt
 -> Set up Kaggle API → download data → run Python scripts → load into SQL.
 
 
+
+
 📁 Project Structure
 |-- data/                     # Raw and cleaned datasets
 |-- sql_queries/              # SQL scripts for analysis
@@ -163,6 +172,8 @@ pip install -r requirements.txt
 |-- README.md                 # Documentation
 |-- requirements.txt          # Required Python packages
 |-- main.py                   # Main ETL and preprocessing script
+
+
 
 
 📊 Results & Insights
@@ -184,12 +195,16 @@ Rating trends
 Buying patterns by demographics (if available)
 
 
+
+
 🔮 Future Enhancements
 
 Potential improvements:
 Add visual dashboards using Power BI or Tableau
 Integrate additional datasets for deeper insights
 Automate ETL pipeline for real-time updates
+
+
 
 
 🙌 Acknowledgments
